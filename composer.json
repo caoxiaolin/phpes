@@ -1,0 +1,14 @@
+{
+    "name": "caoxl/phpes",
+    "description": "A database search based on elasticsearch-php",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "authors": [
+        {
+            "name": "caoxiaolin",
+            "email": "xmihu945@qq.com"
+        }
+    ]
+}
