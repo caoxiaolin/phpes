@@ -1,6 +1,6 @@
 {
-    "name": "caoxl/phpes",
-    "description": "A database search based on elasticsearch-php",
+    "name": "caoxiaolin/phpes",
+    "description": "A database search based on elasticsearch-sql",
     "type": "project",
     "require": {
         "guzzlehttp/guzzle": "^6.3"
