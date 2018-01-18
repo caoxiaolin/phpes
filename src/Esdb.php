@@ -198,6 +198,9 @@ class Esdb
         $result = $res->getBody();
         $this->_esResult = json_decode($result, true);
 
+        //clear $this->_params
+        $this->_params = [];
+
         return true;
     }
 }
