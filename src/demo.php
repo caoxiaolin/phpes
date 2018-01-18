@@ -5,8 +5,8 @@ use Phpes\Esdb;
 
 class MyModel extends Esdb
 {
-    public $index = 'tjy';
-    public $type = 'orders';
+    public $index = 'mydb';
+    public $type = 'mytable';
 }
 
 $model = new MyModel();
